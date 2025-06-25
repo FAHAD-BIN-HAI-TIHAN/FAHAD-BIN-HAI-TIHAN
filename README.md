@@ -52,7 +52,7 @@ I’m a passionate and self-driven full stack developer based in Dhaka. I specia
 ### 📈 GitHub Stats
 
 <p align="left">
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=FAHAD-BIN-HAI-TIHAN&show_icons=true&theme=tokyonight" alt="Fahad's GitHub stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadbinhai&theme=tokyonight" alt="Fahad's GitHub streak" width="48%"/>
 </p>
 
