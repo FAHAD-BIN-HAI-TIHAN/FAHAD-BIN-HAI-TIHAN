@@ -1,4 +1,4 @@
-![Full Stack Developer Banner](https://i.ibb.co/99F18h07/banner.png)
+<img src="https://i.ibb.co/99F18h07/banner.png" alt="banner" width="100%" height="100px" />
 
 <h1 align="center">Hi 👋, I'm Fahad Bin Hai</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Developer</h3>
