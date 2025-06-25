@@ -57,7 +57,7 @@ I’m a passionate and self-driven full stack developer based in Dhaka. I specia
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadbinhai&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
