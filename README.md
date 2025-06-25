@@ -44,7 +44,7 @@ I’m a passionate and self-driven full stack developer based in Dhaka. I specia
 
 <!-- Replace `#` with your actual profile URLs -->
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](#)
-[![LinkedIn](www.linkedin.com/in/fahad-bin-hai-tihan-a533342a7)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#www.linkedin.com/in/fahad-bin-hai-tihan-a533342a7)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
 ---
