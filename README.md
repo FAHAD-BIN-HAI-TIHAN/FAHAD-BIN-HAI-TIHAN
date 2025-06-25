@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/bY9ZCIN.png" alt="banner" style="width:100%;"/>
+<img src="[https://i.ibb.co/99F18h07/banner.png]" alt="banner" style="width:100%;"/>
 
 <h1 align="center">Hi 👋, I'm Fahad Bin Hai</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Developer</h3>
